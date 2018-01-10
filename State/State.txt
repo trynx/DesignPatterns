@@ -1,0 +1,13 @@
+State - Loose coupling between obj and state
+
+[]  ---		 State 		--- []
+obj ---	state - group of class  --- obj
+
+
+state = Fields in obj 
+
+Music player - Obj
+play() {}
+pause() {}
+
+boolean isPlaying <- Problem
